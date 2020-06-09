@@ -4,7 +4,7 @@ let bubbles = [];
 let timer = 3;
 let timer2 = 31;
 
-var swipeUrl = "https:" + "//p5js.org/";//put intro.html file here
+var swipeUrl = "index.html";//put intro.html file here
 
 let score = 0;
 
