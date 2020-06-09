@@ -1,5 +1,5 @@
 let intro = [1];
-var swipeUrl = "https:" + "//p5js.org/";//put game.html here
+var swipeUrl = "game.html";//put game.html here
 
 //load fonts+sound
 let campton;
