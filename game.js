@@ -4,7 +4,7 @@ let bubbles = [];
 let timer = 3;
 let timer2 = 31;
 
-var swipeUrl = "intro.html";//put intro.html file here
+var swipeUrl = "index.html";//put intro.html file here
 
 let score = 0;
 
